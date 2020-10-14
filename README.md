@@ -1,2 +1,2 @@
-# CogBInfo
-info page for CogB marketing
+# CogB
+An adventure game that test the player's awareness to their own biases.
